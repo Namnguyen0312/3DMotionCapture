@@ -32,7 +32,7 @@ export-env {
       }
     }
 
-    let virtual_env = 'D:\3DMotionCaptur\MotionCap\mo'
+    let virtual_env = 'D:\3DMotioncapture\New folder'
     let bin = 'Scripts'
 
     let is_windows = ($nu.os-info.family) == 'windows'

@@ -1,4 +1,4 @@
-@set "VIRTUAL_ENV=D:\3DMotionCaptur\MotionCap\mo"
+@set "VIRTUAL_ENV=D:\3DMotioncapture\New folder"
 
 @set "VIRTUAL_ENV_PROMPT="
 @if NOT DEFINED VIRTUAL_ENV_PROMPT (
