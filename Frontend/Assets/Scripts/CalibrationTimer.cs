@@ -14,7 +14,7 @@ public class CalibrationTimer : MonoBehaviour
 
     private void Start()
     {
-        text.text = "Press " + calibrationKey + " to start calibration timer=.";
+        text.text = "Press " + calibrationKey + " to start calibration timer.";
     }
 
     private void Update()
